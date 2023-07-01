@@ -12,6 +12,9 @@ footer a {
 h1 {
   font-weight: 700;
 }
+img {
+  width: 800px;
+}
 
 h1,
 p,
@@ -21,7 +24,6 @@ footer {
 }
 
 body {
-  max-width: 800px;
   display: block;
   margin: 0 auto;
   background: #f8e8a6;
