@@ -1,0 +1,36 @@
+footer {
+  display: flex;
+  max-width: 300px;
+}
+
+footer a {
+  color: green;
+  justify-content: center;
+  flex: 1;
+  padding: 2px;
+}
+h1 {
+  font-weight: 700;
+}
+
+h1,
+p,
+footer {
+  text-align: center;
+  margin: 20px auto;
+}
+
+body {
+  max-width: 800px;
+  display: block;
+  margin: 0 auto;
+  background: #f8e8a6;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.croissant-photo {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
